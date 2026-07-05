@@ -17,13 +17,13 @@ const colors = [
 const sections = [
   'Brand colors and utility classes',
   'Typography using Inter and Poppins',
-  'Section spacing on mobile and desktop',
-  'Breakpoint-aware content blocks',
+  'Section spacing at 48px mobile and 80px desktop',
+  'Breakpoint-aware content blocks capped at 1200px',
 ] as const
 
 export function App() {
   return (
-    <div className="min-h-screen bg-neutral-50 text-neutral-900">
+    <div className="min-h-screen bg-neutral-50 font-sans text-neutral-900">
       <header className="bg-hero-gradient text-neutral-white">
         <div className="container-content section-shell">
           <div className="max-w-3xl">
@@ -34,7 +34,7 @@ export function App() {
             <p className="mt-6 max-w-2xl text-base leading-7 text-neutral-white/85 tablet:text-lg">
               This page validates brand colors, typography, spacing, and responsive behavior across the required breakpoints.
             </p>
-            <div className="mt-8 flex flex-col gap-4 mobile:flex-col tablet:flex-row">
+            <div className="mt-8 flex flex-col gap-4 tablet:flex-row">
               <a
                 className="inline-flex items-center justify-center rounded-full bg-neutral-white px-6 py-3 text-sm font-semibold text-primary transition hover:bg-neutral-50"
                 href="#tokens"
@@ -68,7 +68,7 @@ export function App() {
             <div className="mt-10 grid gap-6 tablet:grid-cols-2 desktop:grid-cols-3">
               {colors.map((color) => (
                 <article key={color.name} className="token-card">
-                  <div className={`h-24 rounded-xl ${color.className} ${color.textClass} flex items-end p-4`}>
+                  <div className={`flex h-24 items-end rounded-xl ${color.className} ${color.textClass} p-4`}>
                     <span className="text-sm font-semibold">{color.name}</span>
                   </div>
                   <div className="mt-4 flex items-center justify-between gap-3">
@@ -121,7 +121,7 @@ export function App() {
               </p>
             </div>
 
-            <div className="mt-10 grid gap-6 mobile:grid-cols-1 tablet:grid-cols-2 desktop:grid-cols-4">
+            <div className="mt-10 grid grid-cols-1 gap-6 tablet:grid-cols-2 desktop:grid-cols-4">
               {breakpoints.map((item) => (
                 <article key={item.token} className="token-card">
                   <div className="flex items-center justify-between gap-4">
