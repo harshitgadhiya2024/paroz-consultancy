@@ -1,0 +1,17 @@
+[
+  {
+    "platform": "LinkedIn",
+    "url": "https://www.linkedin.com/company/paroz-consultancy",
+    "iconKey": "linkedin"
+  },
+  {
+    "platform": "Instagram",
+    "url": "https://www.instagram.com/parozconsultancy",
+    "iconKey": "instagram"
+  },
+  {
+    "platform": "X",
+    "url": "https://x.com/parozconsult",
+    "iconKey": "twitter"
+  }
+]

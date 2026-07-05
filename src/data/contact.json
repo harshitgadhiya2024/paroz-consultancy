@@ -1,0 +1,16 @@
+{
+  "address": {
+    "line1": "Suite 402, The Exchange",
+    "line2": "35 Lower Long Street",
+    "city": "Cape Town",
+    "region": "Western Cape",
+    "postalCode": "8001",
+    "country": "South Africa"
+  },
+  "phone": "+27 21 555 0148",
+  "email": "hello@parozconsultancy.com",
+  "mapCoordinates": {
+    "latitude": -33.918861,
+    "longitude": 18.4233
+  }
+}

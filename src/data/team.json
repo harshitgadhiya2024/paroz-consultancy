@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Maya Paroz",
+    "role": "Founder & Managing Director",
+    "bio": "Leads strategy engagements and helps leadership teams connect market insight to digital execution.",
+    "location": "Cape Town, South Africa",
+    "photoPath": "/team/maya-paroz.jpg"
+  },
+  {
+    "name": "Daniel Mokoena",
+    "role": "Head of Client Strategy",
+    "bio": "Partners with clients on growth planning, account leadership, and campaign prioritization across sectors.",
+    "location": "Johannesburg, South Africa",
+    "photoPath": "/team/daniel-mokoena.jpg"
+  },
+  {
+    "name": "Leah Stein",
+    "role": "Creative Director",
+    "bio": "Oversees brand systems, digital storytelling, and user-focused design decisions for flagship engagements.",
+    "location": "London, United Kingdom",
+    "photoPath": "/team/leah-stein.jpg"
+  },
+  {
+    "name": "Samir Patel",
+    "role": "Director of Analytics",
+    "bio": "Builds measurement frameworks and reporting practices that translate performance data into action.",
+    "location": "Dubai, United Arab Emirates",
+    "photoPath": "/team/samir-patel.jpg"
+  }
+]

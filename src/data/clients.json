@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Northbridge Health",
+    "logoPath": "/logos/northbridge-health.svg",
+    "industryCategory": "Healthcare"
+  },
+  {
+    "name": "Aster Peak Ventures",
+    "logoPath": "/logos/aster-peak-ventures.svg",
+    "industryCategory": "Venture Capital"
+  },
+  {
+    "name": "Harborline Logistics",
+    "logoPath": "/logos/harborline-logistics.svg",
+    "industryCategory": "Logistics"
+  },
+  {
+    "name": "Luma Retail Group",
+    "logoPath": "/logos/luma-retail-group.svg",
+    "industryCategory": "Retail"
+  },
+  {
+    "name": "CivicGrid Energy",
+    "logoPath": "/logos/civicgrid-energy.svg",
+    "industryCategory": "Energy"
+  },
+  {
+    "name": "Blue Cedar Legal",
+    "logoPath": "/logos/blue-cedar-legal.svg",
+    "industryCategory": "Legal Services"
+  }
+]
