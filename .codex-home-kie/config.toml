@@ -1,0 +1,12 @@
+model = "gpt-5-4"
+model_provider = "kie"
+preferred_auth_method = "apikey"
+
+[model_providers.kie]
+name = "kie.ai"
+base_url = "https://api.kie.ai/codex/v1"
+env_key = "KIE_API_KEY"
+wire_api = "responses"
+
+[projects."/workspaces/5c0ca957-a38b-4578-8d3c-9641b8f66785/task-83010cd8-5559-4077-a5c6-22e5078b8669"]
+trust_level = "trusted"
