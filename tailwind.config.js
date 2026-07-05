@@ -3,10 +3,10 @@ export default {
   content: ['./index.html', './src/**/*.{js,ts,jsx,tsx}'],
   theme: {
     screens: {
-      xs: '320px',
-      md: '768px',
-      xl: '1200px',
-      '2xl': '2560px'
+      mobile: '320px',
+      tablet: '768px',
+      desktop: '1200px',
+      large: '2560px'
     },
     extend: {
       colors: {
@@ -27,8 +27,8 @@ export default {
         content: '1200px'
       },
       spacing: {
-        section: '3rem',
-        'section-desktop': '5rem'
+        section: '48px',
+        'section-desktop': '80px'
       },
       boxShadow: {
         soft: '0 18px 45px -24px rgba(26, 54, 93, 0.35)'
