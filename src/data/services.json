@@ -1,0 +1,68 @@
+[
+  {
+    "title": "Digital Strategy Consulting",
+    "iconKey": "compass",
+    "description": "Aligns business goals, audience needs, and channel performance into a measurable digital growth roadmap.",
+    "deliverables": [
+      "Quarterly digital roadmap",
+      "Competitive landscape review",
+      "Audience and funnel analysis",
+      "Executive KPI scorecard"
+    ]
+  },
+  {
+    "title": "Brand Experience Design",
+    "iconKey": "sparkles",
+    "description": "Shapes cohesive visual and verbal brand systems that build trust across websites, campaigns, and presentations.",
+    "deliverables": [
+      "Brand positioning workshop",
+      "Messaging framework",
+      "Visual direction moodboards",
+      "Design system recommendations"
+    ]
+  },
+  {
+    "title": "Website Design & Build",
+    "iconKey": "layout",
+    "description": "Designs and launches performant marketing websites tailored for clarity, conversion, and easy future maintenance.",
+    "deliverables": [
+      "Responsive page designs",
+      "CMS content model",
+      "Frontend implementation",
+      "Performance and accessibility review"
+    ]
+  },
+  {
+    "title": "Content Marketing",
+    "iconKey": "pen-tool",
+    "description": "Builds editorial programs and campaign assets that help teams communicate expertise consistently and credibly.",
+    "deliverables": [
+      "Editorial content calendar",
+      "SEO topic clusters",
+      "Thought leadership articles",
+      "Campaign copy toolkit"
+    ]
+  },
+  {
+    "title": "Analytics & Reporting",
+    "iconKey": "bar-chart-3",
+    "description": "Turns raw channel and website data into practical reporting dashboards and optimization decisions.",
+    "deliverables": [
+      "Measurement framework",
+      "Dashboard configuration",
+      "Monthly insight reports",
+      "Conversion optimization backlog"
+    ]
+  },
+  {
+    "title": "Fractional Growth Leadership",
+    "iconKey": "briefcase",
+    "description": "Provides senior strategic guidance for scaling teams that need leadership without a full-time executive hire.",
+    "deliverables": [
+      "Leadership planning sessions",
+      "Cross-functional prioritization",
+      "Go-to-market advisory",
+      "Board-ready progress summaries"
+    ]
+  }
+]

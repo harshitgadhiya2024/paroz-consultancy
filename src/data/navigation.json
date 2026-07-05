@@ -1,0 +1,32 @@
+[
+  {
+    "label": "Home",
+    "href": "/",
+    "sectionId": "home"
+  },
+  {
+    "label": "Services",
+    "href": "/#services",
+    "sectionId": "services"
+  },
+  {
+    "label": "Clients",
+    "href": "/#clients",
+    "sectionId": "clients"
+  },
+  {
+    "label": "About",
+    "href": "/#about",
+    "sectionId": "about"
+  },
+  {
+    "label": "Careers",
+    "href": "/#careers",
+    "sectionId": "careers"
+  },
+  {
+    "label": "Contact",
+    "href": "/#contact",
+    "sectionId": "contact"
+  }
+]

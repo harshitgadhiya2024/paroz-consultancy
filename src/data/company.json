@@ -1,0 +1,25 @@
+{
+  "name": "Paroz Consultancy",
+  "tagline": "Strategy-led digital consulting for ambitious brands.",
+  "about": "Paroz Consultancy helps organizations clarify their message, strengthen their digital presence, and build scalable marketing systems. We combine strategic planning, creative direction, and measurable delivery so teams can move from fragmented activity to focused growth.",
+  "mission": "To help growing organizations make smarter digital decisions with clarity, confidence, and measurable impact.",
+  "vision": "To be the trusted strategic partner for modern brands navigating growth, transformation, and market change.",
+  "values": [
+    {
+      "title": "Clarity first",
+      "description": "We simplify complexity so teams can align quickly and act with confidence."
+    },
+    {
+      "title": "Evidence over ego",
+      "description": "We ground recommendations in research, performance signals, and honest collaboration."
+    },
+    {
+      "title": "Craft with purpose",
+      "description": "We design polished experiences that support business goals, not just aesthetics."
+    },
+    {
+      "title": "Partnership mindset",
+      "description": "We work as an extension of client teams and measure success together."
+    }
+  ]
+}
